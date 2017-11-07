@@ -1,3 +1,6 @@
 poireau
 carotte
 tomate
+pate
+champignon
+oeuf
